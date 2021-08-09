@@ -154,7 +154,7 @@
 
 
                 <div class="copy_right_area">
-                    <h4 class="copy_right">© Copyright 2021 Walexkino Ecommerce | All Rights Reserved</h4>
+                    <h4 class="copy_right">© Copyright 2021 Walexkino E-commerce | All Rights Reserved</h4>
                 </div>
             </div>
         </footer>
