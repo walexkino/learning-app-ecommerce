@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
   # More GitHub Actions for Azure: https://github.com/Azure/actions
   
-  name: Build and deploy PHP app to Azure Web App - klodkode
+  name: Build and deploy PHP app to Azure Web App - Walexkino e commerce 
   
   on:
     push:
@@ -15,7 +15,7 @@
   
       steps:
         - uses: actions/checkout@v2
-  
+        
         - name: Setup PHP
           uses: shivammathur/setup-php@v2
           with:
@@ -58,3 +58,4 @@
             slot-name: 'production'
             publish-profile: ${{ secrets.AzureAppService_PublishProfile_2c2d31adab224930b31f17587d2d3e54 }}
             package: .
+        
