@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Walexkino E-Commerce vm</title>
+        <title>Walexkino E-Commerce Devops</title>
 
         <!-- Favicon -->
         <link rel="icon" href="img/favicon.png" type="image/png" />
@@ -89,7 +89,7 @@
         <section class="slider_area row m0">
             <div class="slider_inner">
                 <div class="camera_caption">
-                    <h2 class="wow fadeInUp animated">Let's Make Your Shopping Easy</h2>
+                    <h2 class="wow fadeInUp animated">Let's Automate your shopping </h2>
                     <h5 class="wow fadeIn animated" data-wow-delay="0.3s">Find everything accordingly</h5>
                     <a class="learn_mor wow fadeInU" data-wow-delay="0.6s" href="#product-list">Show Now!</a>
                 </div>
@@ -154,7 +154,7 @@
 
 
                 <div class="copy_right_area">
-                    <h4 class="copy_right">© Copyright 2021 Walexkino E-commerce | All Rights Reserved</h4>
+                    <h4 class="copy_right">© Copyright 2021 Walexkino E-commerce | All Rights Reserved | Devops Automations</h4>
                 </div>
             </div>
         </footer>
