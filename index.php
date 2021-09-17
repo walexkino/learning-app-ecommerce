@@ -91,7 +91,7 @@
                 <div class="camera_caption">
                     <h2 class="wow fadeInUp animated">Let's Automate your shopping </h2>
                     <h5 class="wow fadeIn animated" data-wow-delay="0.3s">Find everything accordingly</h5>
-                    <a class="learn_mor wow fadeInU" data-wow-delay="0.6s" href="#product-list">Show Now!</a>
+                    <a class="learn_mor wow fadeInU" data-wow-delay="0.6s" href="#product-list">Show Now while stock last!</a>
                 </div>
             </div>
         </section>
@@ -118,7 +118,7 @@
                         </div>
                         <div class="media-body">
                             <a href="#"><?php echo $row['Name'] ?></a>
-                            <p>Purchase <?php echo $row['Name'] ?> at the lowest price <span><?php echo $row['Price'] ?>$</span></p>
+                            <p>Purchase <?php echo $row['Name'] ?> at the lowest price in the market <span><?php echo $row['Price'] ?>$</span></p>
                         </div>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                 <div style="width: 100%">
                 <div class="error-content">
 
-                    <h1>Database connection error</h1>
+                    <h1>Database connection error kindly check the database connections</h1>
                     <p>
                     <?php
                           echo mysqli_connect_errno() . ":" . mysqli_connect_error();
@@ -154,11 +154,8 @@
 
 
                 <div class="copy_right_area">
-<<<<<<< HEAD
-                    <h4 class="copy_right">© Copyright 2021 Walexkino E-commerce | All Rights Reserved</h4>
-=======
-                    <h4 class="copy_right">© Copyright 2021 Walexkino E-commerce | All Rights Reserved | Devops Automations</h4>
->>>>>>> 3cb6510ccebfe89b821200e970f8eb162bae28f6
+
+                    <h4 class="copy_right">© Copyright 2021 Walexkino E-commerce | All Rights Reserved | Azure DevOps Automations</h4>
                 </div>
             </div>
         </footer>
